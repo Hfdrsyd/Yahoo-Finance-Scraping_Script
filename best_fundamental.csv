@@ -1,47 +1,47 @@
-ticker,pe_ratio,profitability,leverage,operating_efficiency,total_score,company name,sektor
-AAPL,34.52054840970438,5,2,2,9,Apple Inc.,"Technology Hardware, Storage & Peripherals"
-AMAT,22.693258564123944,5,2,2,9,Applied Materials,Semiconductor Materials & Equipment
-AMZN,44.513125180629096,5,2,2,9,Amazon,Broadline Retail
-APH,37.1428580511184,5,2,2,9,Amphenol,Electronic Components
-AVY,27.582261740088768,5,2,2,9,Avery Dennison,Paper & Plastic Packaging Products & Materials
-BRO,30.44668631869709,5,2,2,9,Brown & Brown,Insurance Brokers
-BWA,13.306818586407283,5,2,2,9,BorgWarner,Automotive Parts & Equipment
-CBOE,28.2064340709042,5,2,2,9,Cboe Global Markets,Financial Exchanges & Data
-CF,21.51551349066322,5,2,2,9,CF Industries,Fertilizers & Agricultural Chemicals
-CHRW,38.392087538465326,5,2,2,9,C.H. Robinson,Air Freight & Logistics
-CME,24.744210879358462,5,2,2,9,CME Group,Financial Exchanges & Data
-CMI,23.746599157793487,5,2,2,9,Cummins,Construction Machinery & Heavy Transportation Equipment
-COO,58.84444342719184,5,2,2,9,Cooper Companies (The),Health Care Supplies
-CRM,50.13066202090592,5,2,2,9,Salesforce,Application Software
-DIS,36.455939281945945,5,2,2,9,Walt Disney Company (The),Movies & Entertainment
-ETN,36.63916257348391,5,2,2,9,Eaton Corporation,Electrical Components & Equipment
-FCX,38.00751822335379,5,2,2,9,Freeport-McMoRan,Copper
-FI,32.24695620329484,5,2,2,9,Fiserv,Transaction & Payment Processing Services
-FTV,30.887551671529867,5,2,2,9,Fortive,Industrial Machinery & Supplies & Components
-GNRC,41.28350326695393,5,2,2,9,Generac,Electrical Components & Equipment
-HOLX,27.38566479992134,5,2,2,9,Hologic,Health Care Equipment
-HON,23.23603178783317,5,2,2,9,Honeywell,Industrial Conglomerates
-IR,50.064355075949486,5,2,2,9,Ingersoll Rand,Industrial Machinery & Supplies & Components
-LH,40.07421150278294,5,2,2,9,LabCorp,Health Care Services
-MA,39.5627990625621,5,2,2,9,Mastercard,Transaction & Payment Processing Services
-MMC,27.563275888599176,5,2,2,9,Marsh McLennan,Insurance Brokers
-MRK,20.327777156123407,5,2,2,9,Merck & Co.,Pharmaceuticals
-MRO,6.918854360648726,5,2,2,9,Marathon Oil,Oil & Gas Exploration & Production
-NFLX,44.9531550410388,5,2,2,9,Netflix,Movies & Entertainment
-NOC,34.87589280275341,5,2,2,9,Northrop Grumman,Aerospace & Defense
-NRG,10.45504369233784,5,2,2,9,NRG Energy,Independent Power Producers & Energy Traders
-NTAP,24.146770917739417,5,2,2,9,NetApp,"Technology Hardware, Storage & Peripherals"
-NVDA,58.64788646429358,5,2,2,9,Nvidia,Semiconductors
-PNR,24.21212051853989,5,2,2,9,Pentair,Industrial Machinery & Supplies & Components
-QCOM,21.90661399435595,5,2,2,9,Qualcomm,Semiconductors
-SLB,14.856208851134856,5,2,2,9,Schlumberger,Oil & Gas Equipment & Services
-SNA,14.89558390827922,5,2,2,9,Snap-on,Industrial Machinery & Supplies & Components
-SPGI,48.59297750570743,5,2,2,9,S&P Global,Financial Exchanges & Data
-STE,57.46766275434352,5,2,2,9,Steris,Health Care Equipment
-TMO,37.134614475903376,5,2,2,9,Thermo Fisher Scientific,Life Sciences Tools & Services
-TXT,18.3771181914766,5,2,2,9,Textron,Aerospace & Defense
-TYL,119.96894662671454,5,2,2,9,Tyler Technologies,Application Software
-UHS,15.84717065949899,5,2,2,9,Universal Health Services,Health Care Facilities
-VICI,12.713724772135418,5,2,2,9,Vici Properties,Hotel & Resort REITs
-V,29.756958530597565,5,2,2,9,Visa Inc.,Transaction & Payment Processing Services
-WAB,32.157895272238214,5,2,2,9,Wabtec,Construction Machinery & Heavy Transportation Equipment
+ticker,pe_ratio,profitability,leverage,operating_efficiency,total_score,company name,sektor,sektor_classified
+AAPL,34.52054840970438,5,2,2,9,Apple Inc.,"Technology Hardware, Storage & Peripherals",Teknologi dan Elektronik
+AMAT,22.693258564123944,5,2,2,9,Applied Materials,Semiconductor Materials & Equipment,Teknologi dan Elektronik
+AMZN,44.513125180629096,5,2,2,9,Amazon,Broadline Retail,Konsumen dan Layanan
+APH,37.1428580511184,5,2,2,9,Amphenol,Electronic Components,Teknologi dan Elektronik
+AVY,27.582261740088768,5,2,2,9,Avery Dennison,Paper & Plastic Packaging Products & Materials,Konsumen dan Layanan
+BRO,30.44668631869709,5,2,2,9,Brown & Brown,Insurance Brokers,Kesehatan dan Bioteknologi
+BWA,13.306818586407283,5,2,2,9,BorgWarner,Automotive Parts & Equipment,Industri dan Transportasi
+CBOE,28.2064340709042,5,2,2,9,Cboe Global Markets,Financial Exchanges & Data,Teknologi dan Elektronik
+CF,21.51551349066322,5,2,2,9,CF Industries,Fertilizers & Agricultural Chemicals,Konsumen dan Layanan
+CHRW,38.392087538465326,5,2,2,9,C.H. Robinson,Air Freight & Logistics,Industri dan Transportasi
+CME,24.744210879358462,5,2,2,9,CME Group,Financial Exchanges & Data,Teknologi dan Elektronik
+CMI,23.746599157793487,5,2,2,9,Cummins,Construction Machinery & Heavy Transportation Equipment,Industri dan Transportasi
+COO,58.84444342719184,5,2,2,9,Cooper Companies (The),Health Care Supplies,Kesehatan dan Bioteknologi
+CRM,50.13066202090592,5,2,2,9,Salesforce,Application Software,Teknologi dan Elektronik
+DIS,36.455939281945945,5,2,2,9,Walt Disney Company (The),Movies & Entertainment,Konsumen dan Layanan
+ETN,36.63916257348391,5,2,2,9,Eaton Corporation,Electrical Components & Equipment,Konsumen dan Layanan
+FCX,38.00751822335379,5,2,2,9,Freeport-McMoRan,Copper,Energi dan Sumber Daya Alam
+FI,32.24695620329484,5,2,2,9,Fiserv,Transaction & Payment Processing Services,Konsumen dan Layanan
+FTV,30.887551671529867,5,2,2,9,Fortive,Industrial Machinery & Supplies & Components,Teknologi dan Elektronik
+GNRC,41.28350326695393,5,2,2,9,Generac,Electrical Components & Equipment,Konsumen dan Layanan
+HOLX,27.38566479992134,5,2,2,9,Hologic,Health Care Equipment,Kesehatan dan Bioteknologi
+HON,23.23603178783317,5,2,2,9,Honeywell,Industrial Conglomerates,Industri dan Transportasi
+IR,50.064355075949486,5,2,2,9,Ingersoll Rand,Industrial Machinery & Supplies & Components,Teknologi dan Elektronik
+LH,40.07421150278294,5,2,2,9,LabCorp,Health Care Services,Kesehatan dan Bioteknologi
+MA,39.5627990625621,5,2,2,9,Mastercard,Transaction & Payment Processing Services,Konsumen dan Layanan
+MMC,27.563275888599176,5,2,2,9,Marsh McLennan,Insurance Brokers,Kesehatan dan Bioteknologi
+MRK,20.327777156123407,5,2,2,9,Merck & Co.,Pharmaceuticals,Kesehatan dan Bioteknologi
+MRO,6.918854360648726,5,2,2,9,Marathon Oil,Oil & Gas Exploration & Production,Energi dan Sumber Daya Alam
+NFLX,44.9531550410388,5,2,2,9,Netflix,Movies & Entertainment,Konsumen dan Layanan
+NOC,34.87589280275341,5,2,2,9,Northrop Grumman,Aerospace & Defense,Industri dan Transportasi
+NRG,10.45504369233784,5,2,2,9,NRG Energy,Independent Power Producers & Energy Traders,Energi dan Sumber Daya Alam
+NTAP,24.146770917739417,5,2,2,9,NetApp,"Technology Hardware, Storage & Peripherals",Teknologi dan Elektronik
+NVDA,58.64788646429358,5,2,2,9,Nvidia,Semiconductors,Teknologi dan Elektronik
+PNR,24.21212051853989,5,2,2,9,Pentair,Industrial Machinery & Supplies & Components,Teknologi dan Elektronik
+QCOM,21.90661399435595,5,2,2,9,Qualcomm,Semiconductors,Teknologi dan Elektronik
+SLB,14.856208851134856,5,2,2,9,Schlumberger,Oil & Gas Equipment & Services,Energi dan Sumber Daya Alam
+SNA,14.89558390827922,5,2,2,9,Snap-on,Industrial Machinery & Supplies & Components,Teknologi dan Elektronik
+SPGI,48.59297750570743,5,2,2,9,S&P Global,Financial Exchanges & Data,Teknologi dan Elektronik
+STE,57.46766275434352,5,2,2,9,Steris,Health Care Equipment,Kesehatan dan Bioteknologi
+TMO,37.134614475903376,5,2,2,9,Thermo Fisher Scientific,Life Sciences Tools & Services,Kesehatan dan Bioteknologi
+TXT,18.3771181914766,5,2,2,9,Textron,Aerospace & Defense,Industri dan Transportasi
+TYL,119.96894662671454,5,2,2,9,Tyler Technologies,Application Software,Teknologi dan Elektronik
+UHS,15.84717065949899,5,2,2,9,Universal Health Services,Health Care Facilities,Kesehatan dan Bioteknologi
+VICI,12.713724772135418,5,2,2,9,Vici Properties,Hotel & Resort REITs,Konsumen dan Layanan
+V,29.756958530597565,5,2,2,9,Visa Inc.,Transaction & Payment Processing Services,Konsumen dan Layanan
+WAB,32.157895272238214,5,2,2,9,Wabtec,Construction Machinery & Heavy Transportation Equipment,Industri dan Transportasi
